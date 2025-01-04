@@ -1,0 +1,23 @@
+{
+  "name": "cypress-sample-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roshanmanawadu/cypress-sample-projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roshanmanawadu/cypress-sample-projects/issues"
+  },
+  "homepage": "https://github.com/roshanmanawadu/cypress-sample-projects#readme",
+  "dependencies": {
+    "cypress": "^13.17.0"
+  }
+}
